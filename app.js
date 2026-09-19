@@ -59,7 +59,7 @@ yes.addEventListener("click", () => {
   vid.style.display = "block";
   setGif("idc.gif", "Knew it babe 😘");
 
-  yes.innerHTML = '<a href="https://www.instagram.com/miko.moj/" target="_blank" rel="noopener noreferrer">Message me</a>';
+  yes.innerHTML = '<a href="https://wa.me/qr/VNC2O73PV75NJ1" target="_blank" rel="noopener noreferrer">Message me</a>';
   yes.style.height = "90%";
   yes.style.width = "96%";
   no.style.display = "none";
