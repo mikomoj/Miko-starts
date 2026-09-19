@@ -6,7 +6,9 @@
     box-sizing: border-box;
     color: #000000;
     z-index: 4;
-    font-family: "Poppins", serif;
+  font-family: "Trebuchet MS", serif;
+      font-weight: bold;
+      font-size: 20px;
 }
 
 body {
@@ -51,9 +53,9 @@ body, html {
 }
 
 .container {
-    height: 70%;
+    height: 90%;
     border: 2px solid black;
-    width: 33%;
+    width: 40%;
 }
 
 .image-box {
